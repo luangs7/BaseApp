@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fun_blue">#195db0</color>
+    <color name="picton_blue">#66a3d7</color>
+    <color name="glitter">#E3EBF6</color>
+    <color name="lima">#8BC41C</color>
+    <color name="start_active">#ffc600</color>
+    <color name="start_desactive">#185bae</color>
+
+    <color name="white_85">#99FFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="black_85">#99000000</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="mikeBlue">#003579</color>
+    <color name="sapphire">#303F9F</color>
+    <color name="mariner">#1d73e1</color>
+    <color name="solitude">#E7F1FE</color>
+    <color name="linkWater">#DBE7F8</color>
+    <color name="myblack">#000000</color>
+    <color name="colorPrimary">@color/mikeBlue</color>
+    <color name="colorPrimaryDark">#643579</color>
+    <color name="colorAccent">@color/mikeBlue</color>
+    <color name="light_steel_blue">#AFC5DF</color>
+    <!--0% = #00-->
+    <!--10% = #16-->
+    <!--20% = #32-->
+    <!--30% = #48-->
+    <!--40% = #64-->
+    <!--50% = #80-->
+    <!--60% = #96-->
+    <!--70% = #112-->
+    <!--80% = #128-->
+    <!--90% = #144-->
+</resources>
